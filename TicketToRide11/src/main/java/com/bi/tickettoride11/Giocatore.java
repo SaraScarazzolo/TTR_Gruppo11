@@ -11,5 +11,5 @@ package com.bi.tickettoride11;
 public class Giocatore {
     Trenino[] treniniDisponibili;
     Carta[] carteTreno;
-    
+    int gMail = 0;
 }
